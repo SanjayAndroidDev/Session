@@ -1,5 +1,9 @@
 This second demo created by Pratik & Sanjay
 Hi All we are updating file now.
 
+<<<<<<< HEAD
 
 Hi we added new text before push
+=======
+Hi i will change this from server direct
+>>>>>>> 6c528fbc795d4d401b90a71cef83329d54a1ab5e
